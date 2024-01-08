@@ -21,7 +21,7 @@ public class TestCases extends BaseTest {
         System.out.println("Access to url https://cms.anhtester.com/login");
         System.out.println("Enter valid email");
         System.out.println("Enter valid password");
-        System.out.println("Click Login button");
+        System.out.println("Click button Login");
         System.out.println("Check validate and redirect to Homepage");
 
         System.out.println("On the menu bar, click on the Products");
